@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<account-authenticator xmlns:android="http://schemas.android.com/apk/res/android" android:label="@string/ckb" android:icon="@drawable/aie" android:accountType="com.zhiliaoapp.musically.go" android:smallIcon="@drawable/aie"/>

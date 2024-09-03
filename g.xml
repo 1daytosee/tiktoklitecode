@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sync-adapter xmlns:android="http://schemas.android.com/apk/res/android" android:label="@string/ckb" android:icon="@drawable/aie" android:accountType="com.zhiliaoapp.musically.go" android:contentAuthority="com.ss.android.account.AccountProvider1340" android:userVisible="true" android:supportsUploading="false" android:smallIcon="@drawable/aie" android:allowParallelSyncs="false" android:isAlwaysSyncable="true"/>

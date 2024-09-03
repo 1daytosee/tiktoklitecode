@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path name="share_path0" path="share/"/>
+    <external-files-path name="share_path1" path="share/"/>
+    <files-path name="share_path2" path="share/"/>
+    <cache-path name="share_path3" path="share/"/>
+    <external-cache-path name="share_path4" path="share/"/>
+    <cache-path name="lite" path="com.zhiliaoapp.musically.go/"/>
+    <external-path name="download_path2" path="Download/"/>
+    <cache-path name="gif" path="gif/"/>
+    <external-files-path name="install_path" path="update/"/>
+    <external-files-path name="livewallpaper" path="livewallpaper/"/>
+    <external-cache-path name="ttlive_provider_path" path="live/"/>
+    <cache-path name="ttlive_provider_cache_path" path="live/"/>
+    <external-cache-path name="share_image_path0" path="picture/"/>
+    <external-cache-path name="share_image_path2" path="head/"/>
+    <external-cache-path name="share_image_path3" path="feedback/"/>
+    <external-cache-path name="share_image_path4" path="tmpimages/"/>
+    <cache-path name="share_image_path1" path="picture/"/>
+    <cache-path name="share_image_path3" path="head/"/>
+    <cache-path name="share_image_path4" path="tmpimages/"/>
+    <cache-path name="share_sdk_path_0" path="share_content_cache/"/>
+    <files-path name="wallpaper_video" path="LiveWallpaper/"/>
+    <files-path name="file_picture" path="Pictures/"/>
+    <external-files-path name="external_file_picture" path="Pictures/"/>
+    <cache-path name="cache_picture" path="Pictures/"/>
+    <external-path name="external_picture" path="Pictures/"/>
+    <cache-path name="cache_dcim" path="DCIM/"/>
+    <external-path name="external_path" path="."/>
+    <external-files-path name="external_files_path" path="."/>
+    <external-cache-path name="external_cache_path" path="."/>
+</paths>

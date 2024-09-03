@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true">
+        <trust-anchors>
+            <certificates overridePins="true" src="system"/>
+        </trust-anchors>
+    </base-config>
+    <debug-overrides>
+        <trust-anchors>
+            <certificates src="user"/>
+        </trust-anchors>
+    </debug-overrides>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="false">zero-rating.tiktok.com
+        </domain>
+    </domain-config>
+    <domain-config cleartextTrafficPermitted="false">
+        <domain includeSubdomains="true">tiktokcdn.com
+        </domain>
+        <domain includeSubdomains="true">tiktokv.com
+        </domain>
+        <domain includeSubdomains="true">tiktokcdn-us.com
+        </domain>
+        <domain includeSubdomains="true">isnssdk.com
+        </domain>
+        <domain includeSubdomains="true">ibyteimg.com
+        </domain>
+        <domain includeSubdomains="true">bytegecko-i18n.com
+        </domain>
+        <domain includeSubdomains="true">ibytedtos.com
+        </domain>
+        <domain includeSubdomains="true">byteoversea.com
+        </domain>
+        <domain includeSubdomains="true">byteeffecttos-g.com
+        </domain>
+        <domain includeSubdomains="true">tiktok.com
+        </domain>
+        <domain includeSubdomains="true">ttapis.com
+        </domain>
+        <domain includeSubdomains="true">byteicdn.com
+        </domain>
+        <domain includeSubdomains="true">byteoversea.net
+        </domain>
+        <domain includeSubdomains="true">xzcs3zlph.com
+        </domain>
+        <domain includeSubdomains="true">musical.ly
+        </domain>
+        <domain includeSubdomains="true">tiktokv-us.com
+        </domain>
+        <domain includeSubdomains="true">bytedgame.com
+        </domain>
+        <domain includeSubdomains="true">tiktokglobalshop.com
+        </domain>
+        <domain includeSubdomains="true">tiktokglobalshopv.com
+        </domain>
+    </domain-config>
+</network-security-config>
